@@ -1,4 +1,7 @@
 # Log Analysis Basics – Network-Based Attack Detection Using UFW
+# Name: Comfort Ozohu Roberts
+# Course: Advanced Cybersecurity Class
+# Date: 21 October 2026
 
 ## Objective
 Simulate a network port scan between two virtual machines and demonstrate how Uncomplicated Firewall (UFW) logging can be used to detect and block early-stage reconnaissance activity.
